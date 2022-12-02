@@ -1,5 +1,5 @@
 data = []
-with open("/home/stefan/personal/AOC-2022/day1/input.txt") as f:
+with open("input_file_name") as f:
     for line in f:
         line.split("\n")
         data.append(line)
