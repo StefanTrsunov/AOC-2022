@@ -1,4 +1,4 @@
-with open("/home/stefan/personal/AOC-2022/day2/input.txt") as f:
+with open("input_file_name") as f:
     score = 0
     for line in f:  
         if line[0] == 'A':
