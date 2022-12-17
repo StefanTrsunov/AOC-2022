@@ -1,5 +1,5 @@
 ans = 0
-with open("input_file_name") as f:
+with open("/home/stefan/personal/AOC-2022/day4/input.txt") as f:
     for line in f:
         first,second = line.split(',')
         f1,s1 = first.split('-')
